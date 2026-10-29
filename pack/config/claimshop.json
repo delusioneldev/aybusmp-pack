@@ -1,0 +1,9 @@
+{
+  "pricePerClaim": 500,
+  "priceGrowth": 2.46,
+  "priceScale": 10.0,
+  "maxBonusClaims": 0,
+  "maxPerPurchase": 100,
+  "maxPartyMembers": 64,
+  "maxPartyInvites": 16
+}
