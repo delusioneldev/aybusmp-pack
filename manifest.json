@@ -5,7 +5,7 @@
   "loader": "fabric",
   "loader_version": "0.20.1",
   "min_launcher_version": "1.1.4",
-  "launcher_download_url": "https://github.com/delusioneldev/aybusmp-pack/releases/download/v1.1.4/AYBUSMP.exe",
+  "launcher_download_url": "https://github.com/delusioneldev/aybusmp-pack/releases/download/v1.1.5/AYBUSMP.exe",
   "base_url": "https://raw.githubusercontent.com/delusioneldev/aybusmp-pack/refs/heads/main/pack",
   "managed_dirs": [],
   "motd": "",
@@ -529,7 +529,7 @@
       "keep_local": true
     }
   ],
-  "launcher_version": "1.1.4",
-  "launcher_sha256": "26b7aa9746100561b6dfb8e3f3019df0753af80b564d7a24170aab15e1ef7638",
-  "launcher_size": 45866487
+  "launcher_version": "1.1.5",
+  "launcher_sha256": "608d5d49cdc9b16513c3dbfb4fde452c927c40ca40d900330ce7aa235f958945",
+  "launcher_size": 45889201
 }
