@@ -1,0 +1,11 @@
+{
+  "magnetRadius": 12,
+  "scytheRadius": 2,
+  "lifeStealRatio": 0.15,
+  "doubleJumpPower": 0.6,
+  "nightVisionWearTicks": 200,
+  "doubleJumpWear": 1,
+  "sneakDisables3x3": true,
+  "xpBottleFromInventory": true,
+  "stats": {}
+}
