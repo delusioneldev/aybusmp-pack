@@ -270,8 +270,8 @@
     },
     {
       "path": "mods/claimshop-1.0.0.jar",
-      "sha256": "097f73582d5e1207219f440d7ea0354970b327f3348d1dea91a0c53f9ef2f963",
-      "size": 46967
+      "sha256": "fbba70ba18f533bb8de1b7fbbc7dfebacf458dd56aff0e6e296f55c7811f808e",
+      "size": 56001
     },
     {
       "path": "mods/clientgate-1.0.0.jar",
@@ -280,8 +280,8 @@
     },
     {
       "path": "mods/smpitems-1.0.0.jar",
-      "sha256": "b8b6c6d2531e68b855731d3b90be28d36999f980109f2a682f93fa5d50db7fa9",
-      "size": 67779
+      "sha256": "2f5dfcaf82272c988ecd6728b32306cf187458c122cee5f6ddffbc8c1286a26e",
+      "size": 76018
     },
     {
       "path": "config/appleskin.json5",
@@ -361,7 +361,7 @@
     },
     {
       "path": "config/iris.properties",
-      "sha256": "f74c2a9d309d534e287c37091eefc22d2efc984a0bd1b294e16ca0155955cab7",
+      "sha256": "e789754acb199b86bfe2686b2974d7e4991628a516e8a359c4dfac6ce1922d82",
       "size": 318
     },
     {
