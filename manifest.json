@@ -654,6 +654,11 @@
       "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
       "size": 2,
       "keep_local": true
+    },
+    {
+      "path": "mods/yardim-1.0.0.jar",
+      "sha256": "782f1450a057573984b4ca63419a2a797dac147752f047de7c6587e299571d90",
+      "size": 107239
     }
   ],
   "launcher_version": "1.1.7",
